@@ -44,6 +44,13 @@ header .container .logo img{
     height: 100%;
 }
 
+header nav ul {
+    list-style-type: none;
+}
+header nav ul li {
+    display: inline-block;
+}
+
 /* Home style starts here */
 
 
