@@ -24,6 +24,13 @@ body, button{
 
 }
 /* common style ends here */
+header{
+      width: 100%;
+      background-color: rgba(0,0,0,0.6);
+      position: fixed;
+      
+
+}
 
 /* Home style starts here */
 
