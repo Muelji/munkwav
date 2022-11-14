@@ -36,10 +36,12 @@ header .container{
     justify-content: space-between;
 
 }
+
 header .container .logo{
     padding: 15px, 0;
     height: 75px;
 }
+
 header .container .logo img{
     height: 100%;
 }
@@ -47,9 +49,23 @@ header .container .logo img{
 header nav ul {
     list-style-type: none;
 }
+
 header nav ul li {
     display: inline-block;
 }
+
+header nav ul li a {
+    display: inline-block;
+    height: 75px;
+    line-height: 75px;
+    padding: 0 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 16px;
+    color: #fff;
+}
+
+
 
 /* Home style starts here */
 
