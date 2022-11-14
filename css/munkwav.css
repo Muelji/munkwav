@@ -13,4 +13,14 @@ body, button{
 
 }
 
+.fullContainer{
+      width: 100%;
+
+}
+
+.container{
+      width: 1140px;
+
+}
+
 /* common style ends here */
