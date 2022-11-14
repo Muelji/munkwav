@@ -31,10 +31,17 @@ header{
       z-index: 2;
 }
 
-header.container{
+header .container{
     display: flex;
     justify-content: space-between;
 
+}
+header .container .logo{
+    padding: 15px, 0;
+    height: 75px;
+}
+header .container .logo img{
+    height: 100%;
 }
 
 /* Home style starts here */
