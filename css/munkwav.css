@@ -234,5 +234,11 @@ header nav ul li a:hover {
    background-color: var(--gray)
 
 }
+.programs .boxContainer{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   grid-gap: 50px
+
+}
 
 /* programs section ends */
