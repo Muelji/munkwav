@@ -206,7 +206,7 @@ header nav ul li a:hover {
   transition: 0.3s;
 
 }
-#aboutSection .cards > div button:hover{
+#aboutSection .cards > div:hover button{
   background-color: var(--themeRed);
 
 }
