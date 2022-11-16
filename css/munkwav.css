@@ -315,6 +315,22 @@ top: 100%;
 .programs .boxContainer .box .donationCount span{
    color: var(--themeRed)
 }
+.programs .boxContainer .box button {
+   position: absolute; 
+   left: 50%;
+   background-color: var(--themeRed);
+   color: #fff;
+   transform: translate(-50%);
+   bottom: -15px;
+   border-radius: 60px;
+   padding: 7px 15px;
+   border: 0;
+   outline: none;
+   cursor: pointer;
+
+}
+
+
 
 
 
