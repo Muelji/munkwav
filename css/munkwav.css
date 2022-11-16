@@ -185,10 +185,11 @@ header nav ul li a:hover {
   border: 1px solid #ccc
 }
 
-#aboutSection .cards > div .title{
+
+#aboutSection .cards > div {
     font-size: 18px;
     font-weight: 600;
-    text-transform: uppercase;
+
     
   }
 
