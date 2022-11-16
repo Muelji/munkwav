@@ -338,9 +338,10 @@ top: 100%;
 
 }
 .education{
-   height: 100vh;
-   overflow: hidden;
-   position: relative;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+
 
 }
 
