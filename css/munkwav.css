@@ -373,6 +373,17 @@ padding: 30px;
 
 }
 
+.education .educationContainer button{
+ background-color: var(--themeRed);
+ border: 0;
+ color: #fff;
+ padding: 10px 25px;
+ font-weight: bold;
+
+}
+
+
+
 
 
 
