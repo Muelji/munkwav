@@ -185,7 +185,32 @@ header nav ul li a:hover {
   border: 1px solid #ccc
 }
 #aboutSection .cards > div .title{
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
   
 }
+#aboutSection .cards > div p{
+  font-size: 14px;
+ margin-top: 15px;
+
+}
+#aboutSection .cards > div button{
+  border: 1px solid var(--themeRed);
+  outline: none;
+  padding: 7px 15px;
+  margin-top: 15px;
+  font-size: 12px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: 0.3s;
+
+}
+#aboutSection .cards > div button:hover{
+  background-color: var(--themeRed);
+
+}
+
+
 
 /* AboutSection ends */
