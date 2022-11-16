@@ -189,8 +189,9 @@ header nav ul li a:hover {
 #aboutSection .cards > div:hover {
       width: 400px;
       margin-top: -20px;
-      
-    
+     border-color: var(--themeRed);
+     padding: 55px;
+     height: auto;
   }
 
 #aboutSection .cards > div .title{
