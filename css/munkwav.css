@@ -305,5 +305,15 @@ top: 100%;
    color: #444;
 
 }
+.programs .boxContainer .box .donationCount{
+   font-size: 13px;
+   margin-top: 10px;
+   font-weight: 600;
+   color: #444;
+}
+
+
+
+
 
 /* programs section ends */
