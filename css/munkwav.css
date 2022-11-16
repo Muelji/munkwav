@@ -328,11 +328,20 @@ top: 100%;
    outline: none;
    cursor: pointer;
 }
-
-
-
-
-
-
-
 /* programs section ends */
+
+/* education section starts */
+.education{
+   height: 100vh;
+   overflow: hidden;
+   position: relative;
+
+}
+.education{
+   height: 100vh;
+   overflow: hidden;
+   position: relative;
+
+}
+
+/* education section ends */
