@@ -251,6 +251,31 @@ header nav ul li a:hover {
    margin-bottom: 15px;
 }
 
+.programs .boxContainer .box .cardImage {
+   width: 100%;
+   height: 300px;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+   overflow: hidden;
+   border-radius: 5px 5px 0 0;
+}
+.programs .boxContainer .box .cardImage:after {
+   width: 100%;
+   height: 100%;
+   background-position: center;
+   content: "";
+   position: absolute;
+   left: 0;
+   top: 0;
+   filter: grayscale(100%);
+   transition: 0.4s;
+}
 
+.programs .boxContainer .box:nth-child(1) .cardImage,
+.programs .boxContainer .box:nth-child(1) .cardImage:after{
+    background-image: url("images/kid1.jpg");
+
+}
 
 /* programs section ends */
