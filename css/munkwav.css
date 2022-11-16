@@ -33,6 +33,16 @@ p{
       margin: auto;
 
 }
+
+.sectionTitle{
+     width: 300px;
+     border-bottom: 3px solid var(--themeRed);
+     text-align: center;
+     font-weight: ;
+
+}
+
+
 /* common style ends here */
 
 header{
@@ -130,3 +140,10 @@ header nav ul li a:hover {
         font-weight: 600;
 }
 /* Home style ends here */
+
+/* AboutSection starts */
+
+
+
+
+/* AboutSection ends */
