@@ -18,6 +18,11 @@ body, button{
 
 }
 
+p{
+   font-size: 14px;
+   line-height: 26px;
+}
+
 .fullContainer{
       width: 100%;
 
@@ -29,6 +34,7 @@ body, button{
 
 }
 /* common style ends here */
+
 header{
       width: 100%;
       background-color: rgba(0,0,0,0.6);
@@ -78,6 +84,9 @@ header nav ul li a:hover {
 .banner{
       min-height: 100vh;
       width: 100%;
+      background-image: url("images/children.jpg");
+      background-size: cover;
+      background-attachment: fixed;
 }
 
 .banner h1{
@@ -101,5 +110,22 @@ header nav ul li a:hover {
 
 }
 
+.banner p {
+       color: white;
+       width: 50%;
+       text-shadow: 0 0 2px black;
+       margin-top: 10px;
 
+}
+
+.banner button {
+        background-color: var(--themeRed);
+        border: 0;
+        outline: none;
+        color: white;
+        padding: 10px 15px;
+        margin-top: 20px;
+        font-size: 13px;
+        
+}
 /* Home style ends here */
