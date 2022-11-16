@@ -312,6 +312,10 @@ top: 100%;
    color: #444;
 }
 
+.programs .boxContainer .box .donationCount span{
+   color: var(--themeRed)
+}
+
 
 
 
