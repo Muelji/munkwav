@@ -38,9 +38,25 @@ p{
      width: 300px;
      border-bottom: 3px solid var(--themeRed);
      text-align: center;
-     font-weight: ;
-
+     font-weight: 299;
+     margin: 0 auto 50px;
+     position: relative;
+     padding: 10px 0;
+     text-transform: uppercase;
 }
+.sectionTitle::after{
+     display: inline-block;
+     content: "";
+     height: 15px;
+     width: 15px;
+     background-color: var(--themeRed);
+     position: absolute;
+     left: calc(50% - 10px);
+     top: calc(75% - 7px);
+     transform: rotate(45deg) translate(50%, 50%);
+}
+
+
 
 
 /* common style ends here */
