@@ -268,13 +268,28 @@ header nav ul li a:hover {
    position: absolute;
    left: 0;
    top: 0;
-   filter: grayscale(100%);
+   /* filter: grayscale(100%); */
    transition: 0.4s;
 }
 
 .programs .boxContainer .box:nth-child(1) .cardImage,
 .programs .boxContainer .box:nth-child(1) .cardImage:after{
     background-image: url("images/kid1.jpg");
+
+}
+.programs .boxContainer .box:nth-child(2) .cardImage,
+.programs .boxContainer .box:nth-child(2) .cardImage:after{
+    background-image: url("images/kid2.jpg");
+
+}
+.programs .boxContainer .box:nth-child(3) .cardImage,
+.programs .boxContainer .box:nth-child(3) .cardImage:after{
+    background-image: url("images/kid3.jpg");
+
+}
+.programs .boxContainer .box:nth-child(4) .cardImage,
+.programs .boxContainer .box:nth-child(4) .cardImage:after{
+    background-image: url("images/kid4.jpg");
 
 }
 
