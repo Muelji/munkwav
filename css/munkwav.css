@@ -241,4 +241,16 @@ header nav ul li a:hover {
 
 }
 
+.programs .boxContainer .box{
+   background-color: #fff;
+   text-align: center;
+   padding-bottom: 25px;
+   border-radius: 5px;
+   box-shadow: 0 0 3px 0 #c5c5c5;
+   position: relative;
+   margin-bottom: 15px;
+}
+
+
+
 /* programs section ends */
