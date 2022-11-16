@@ -337,7 +337,7 @@ top: 100%;
    position: relative;
 
 }
-.education{
+.education .videoplayer{
    position: absolute;
    top: 50%;
    left: 50%;
