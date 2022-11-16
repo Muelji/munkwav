@@ -54,6 +54,12 @@ p{
      left: calc(50% - 10px);
      top: calc(75% - 7px);
      transform: rotate(45deg) translate(50%, 50%);
+     border: 3px solid #fff;
+}
+
+section{
+    padding: 100px 0;
+    position: relative;
 }
 
 
