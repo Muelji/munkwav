@@ -433,8 +433,30 @@ padding: 30px;
 .gallery .galleryContainer .item:hover img{
  transform: scale(1.2);
 }
-
-
-
-
 /* Gallery section ends */
+
+/* Join section starts */
+.join{
+     background-color: var(--themeRed);
+     color: #fff;
+
+}
+
+.join .joinTitle{
+    font-size: 40px;
+    font-weight: 100;
+}
+.join .joinTitle span{
+    font-weight: 800;
+}
+
+.join button {
+    padding: 7px 15px;
+    margin-top: 20px;
+    border: 0;
+    outline: none;
+    
+
+}
+
+/* Join section ends */
