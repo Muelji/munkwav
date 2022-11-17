@@ -486,4 +486,15 @@ footer .container{
     grid-gap: 50px
 }
 
+footer .title {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 2px solid;
+    margin-bottom: 30px;
+    padding: 0 0 5px 0;
+}
+
+
+
 /* footer ends here */
