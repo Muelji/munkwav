@@ -459,6 +459,18 @@ padding: 30px;
     font-size: 16px;
    
 }
+.join button.joinNow {
+      margin-right: 10px;
+      background-color: #424242;
+      color: #fff;
+   
+}
+.join button .adoptbtn {
+      background-color: var(--gray)
+   
+}
+
+
 
 
 
