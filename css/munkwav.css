@@ -404,6 +404,12 @@ padding: 30px;
   margin-bottom: 20px;
   overflow: hidden;
 
+}
+
+
+.gallery .galleryContainer .img {
+   width: 100%;
+   display: block;
 
 }
 
