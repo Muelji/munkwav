@@ -465,7 +465,7 @@ padding: 30px;
       color: #fff;
    
 }
-.join button .adoptbtn {
+.join button.adoptbtn {
       background-color: var(--gray)
    
 }
