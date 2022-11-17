@@ -517,4 +517,13 @@ footer .newsLetterContainer img {
 
 }
 
+footer .newsLetterContainer input {
+    background-color: transparent;
+    border: 1px solid #7f7f7f;
+    outline: none;
+    padding: ;
+     
+
+}
+
 /* footer ends here */
