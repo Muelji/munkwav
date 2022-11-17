@@ -390,9 +390,14 @@ padding: 30px;
 
 }
 
-
-
-
-
-
 /* education section ends */
+
+/* Gallery section starts */
+.gallery .galleryContainer {
+  column-count: 4;
+  column-gap: 20px;
+  
+
+}
+
+/* Gallery section ends */
