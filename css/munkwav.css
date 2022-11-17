@@ -82,6 +82,7 @@ header{
 header .container{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
 }
 
@@ -89,15 +90,14 @@ header .container .logo{
    /* border: 1px solid red; */
     padding: 15px, 0;
     width: 200px;
-    height: 75px;   
+    height: 150px;   
 
 }
 
 header .container .logo img{
     /* height: 200%; */
     width: 100%;
-    height: 150%;
-    border-radius: 10px;
+    height: 100%;
 }
 
 header nav ul {
