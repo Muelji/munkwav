@@ -400,11 +400,8 @@ padding: 30px;
 }
 
 .gallery .galleryContainer .item {
-   display: flex;
-   align-items: center;
-   justify-content: center;
-  position: relative;
-  margin-bottom: 20px;
+   position: relative;
+   margin-bottom: 20px;
   overflow: hidden;
 
 }
