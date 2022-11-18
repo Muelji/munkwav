@@ -530,3 +530,15 @@ footer .newsLetterContainer input {
 }
 
 /* footer ends here */
+
+/* Responsive code starts */
+@media screen and (max-width: 1140px){
+    .container{
+         width: 100%;
+         padding: 0 15px;
+
+    }
+    
+}
+
+/* Responsive code ends */
