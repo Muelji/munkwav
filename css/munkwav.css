@@ -681,13 +681,17 @@ footer .newsLetterContainer input {
 
     }
 
-
 }
 
+@media screen and (max-width: 425px){
+    .banner h1 {
+        margin-top: 150px;
+        font-size: 2rem;
+        line-height: 3rem;
 
-
-
-
+    }
+    
+}
 
 
 /* Responsive code ends */
