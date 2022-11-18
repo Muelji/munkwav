@@ -538,6 +538,11 @@ footer .newsLetterContainer input {
          padding: 0 15px;
 
     }
+   
+    .education .videoplayer{
+          width: 1280px;
+
+    }
     
 }
 
@@ -650,8 +655,19 @@ footer .newsLetterContainer input {
 
     .banner p, .banner h1 {
         width: 70%;
+        color: #7f7f7f;
     }
     
+    #aboutSection .cards > div:hover {
+        width: 350px;
+    }
+
+    .education .educationContainer{
+        width: 96%;
+        
+    }
+
+
 }
 
 
