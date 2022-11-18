@@ -568,9 +568,14 @@ footer .newsLetterContainer input {
          font-size: 2.5rem;
     }
 
-    .pro
+    .programs .boxContainer{
+         grid-template-columns: repeat(2, 1fr);
+
+    }
     
 }
+
+
 
 
 
