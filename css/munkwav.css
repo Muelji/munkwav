@@ -575,6 +575,26 @@ footer .newsLetterContainer input {
     
 }
 
+@media screen and (max-width: 768px){
+    header nav {
+          position: relative;
+          border: 2px solid #fff;
+          
+
+
+    }
+
+    /* .banner h1 {
+         font-size: 2.5rem;
+    }
+
+    .programs .boxContainer{
+         grid-template-columns: repeat(2, 1fr);
+
+    } */
+    
+}
+
 
 
 
