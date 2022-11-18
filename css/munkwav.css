@@ -719,8 +719,20 @@ footer .newsLetterContainer input {
       column-count: 1;
 
    }
-    
+
+   footer .container {
+     grid-template-columns: 1fr;
+   }  
 }
 
+@media screen and (max-width: 320px){
+
+    .education .educationContainer h3{
+     font-size: 18px;
+     line-height: 24px;
+
+    }
+    
+}
 
 /* Responsive code ends */
