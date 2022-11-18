@@ -615,6 +615,19 @@ footer .newsLetterContainer input {
          position: absolute;
          left: 5px;
     }
+
+    header nav ul {
+        position: absolute;
+        right: -400px;
+        top: 53px;
+        transition: 0.5s;
+
+    }
+
+    header nav:hover ul {
+        right: 0;
+
+    }
     
 }
 
