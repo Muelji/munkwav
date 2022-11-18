@@ -628,6 +628,29 @@ footer .newsLetterContainer input {
         right: 0;
 
     }
+
+    header nav ul li {
+        display: block;
+
+    }
+
+    header nav ul li a {
+        width: 300px;
+        background-color: rgba(0,0,0,0.6);
+    }
+
+    .banner{
+         background-position-x: 65%;
+
+    }
+
+    .banner p {
+        font-size: 14px;
+    }
+    
+    .banner p {
+        font-size: 14px;
+    }
     
 }
 
