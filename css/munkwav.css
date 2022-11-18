@@ -704,7 +704,11 @@ footer .newsLetterContainer input {
         width: 400px;
         margin-top: 10px;
         padding: 35px;
+   }
 
+   .education .videoplayer {
+        width: 1400px;
+        
 
    }
     
