@@ -585,14 +585,35 @@ footer .newsLetterContainer input {
 }
 
 
-@media screen and (max-width:768px){
+@media screen and (max-width:826px){
     header nav {
           position: relative;
           border: 2px solid #fff;
           height: 30px;
+          width: 30px;
           margin-top: 20px;
           border-radius: 5px;
+    }
 
+    header nav:after{
+          top: 17px;
+        
+    }
+
+    header nav:before{
+         top: 7px;
+
+    }
+
+    header nav:after, 
+    header nav:before{
+         content: "";
+         height: 2px;
+         width: 17px;
+         background-color: #efefef;
+         display: block;
+         position: absolute;
+         left: 5px;
     }
     
 }
