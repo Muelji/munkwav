@@ -672,6 +672,15 @@ footer .newsLetterContainer input {
         line-height: 35px;  
     }
 
+    .education .educationContainer p{
+        margin: 10px 0 20px; 
+    }
+
+    .gallery .galleryContainer{
+        column-count: 2;
+
+    }
+
 
 }
 
