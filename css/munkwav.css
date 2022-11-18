@@ -575,6 +575,16 @@ footer .newsLetterContainer input {
     
 }
 
+@media screen and (max-width: 762px){
+
+    .programs .boxContainer{
+         grid-template-columns: repeat(1, 1fr);
+
+    }
+    
+}
+
+
 @media screen and (max-width: 768px){
     header nav {
           position: relative;
