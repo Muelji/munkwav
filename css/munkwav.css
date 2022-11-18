@@ -667,6 +667,11 @@ footer .newsLetterContainer input {
         
     }
 
+    .education .educationContainer h3{
+        font-size: 30px;
+        line-height: 35px;  
+    }
+
 
 }
 
