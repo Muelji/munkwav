@@ -579,8 +579,9 @@ footer .newsLetterContainer input {
     header nav {
           position: relative;
           border: 2px solid #fff;
-          
-
+          height: 30px;
+          margin-top: 20px;
+          border-radius: 5px;
 
     }
 
