@@ -708,7 +708,15 @@ footer .newsLetterContainer input {
 
    .education .videoplayer {
         width: 1400px;
-        
+   }
+
+   .education .educationContainer{
+        width: 93%;
+
+   }
+
+   .gallery .galleryContainer {
+      column-count: 1;
 
    }
     
