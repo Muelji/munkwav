@@ -541,7 +541,7 @@ padding: 30px;
     font-weight: 800;
 }
 
-.join button {
+/* .join button {
     padding: 7px 15px;
     margin-top: 20px;
     border: 0;
@@ -549,7 +549,7 @@ padding: 30px;
     font-weight: 600;
     font-size: 16px;
    
-}
+} */
 .join button.joinNow {
       margin-right: 10px;
       background-color: #424242;
