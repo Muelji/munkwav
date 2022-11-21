@@ -542,12 +542,12 @@ padding: 30px;
 }
 
 .join button {
-    padding: 7px 15px;
-    margin-top: 20px;
+    padding: 5px 5px;
+    /* margin-top: 5px; */
     border: 0;
     outline: none;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 14px;
    
 }
 
