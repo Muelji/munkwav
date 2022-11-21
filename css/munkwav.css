@@ -34,6 +34,7 @@ p{
 }
 
 .container{
+     /* border: 1px solid red; */
       width: 1140px;
       margin: auto;
 
@@ -132,6 +133,11 @@ header nav ul li a:hover {
       background-attachment: fixed;
 }
 
+.content {
+      text-align: center;
+}
+
+
 .banner h1{
     margin-top: 230px;
     display: inline-block;
@@ -158,6 +164,8 @@ header nav ul li a:hover {
        width: 50%;
        text-shadow: 0 0 2px black;
        margin-top: 10px;
+       margin-left: 25%;
+       
 
 }
 
@@ -175,14 +183,41 @@ header nav ul li a:hover {
 /* Home style ends here */
 
 /* AboutSection starts */
+
+/* imit card */
+#aboutSection .card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 50px;
+  position: relative;
+  /* height: 245px; */
+  
+}         
+
+
+
 #aboutSection .cards {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-top: 50px;
   position: relative;
-  height: 245px;
+  /* height: 245px; */
   
+}
+
+/* imit card */
+#aboutSection .card > div {
+  width: 350px;
+  background-color: var(--gray);
+  padding: 35px;
+  color: #444;
+  text-align: center;
+  border-radius: 15px;
+  height: 390px;
+  border: 1px solid #ccc;
+  transition: 0.4s;
 }
 
 #aboutSection .cards > div {
@@ -197,6 +232,14 @@ header nav ul li a:hover {
   transition: 0.4s;
 }
 
+/* imit card */
+#aboutSection .card > div:hover {
+      width: 400px;
+      margin-top: -20px;
+     border-color: var(--themeRed);
+     padding: 55px;
+     height: auto;
+  }
 
 #aboutSection .cards > div:hover {
       width: 400px;
@@ -206,17 +249,34 @@ header nav ul li a:hover {
      height: auto;
   }
 
+  /* imit card */
+#aboutSection .card > div .title{
+    color: var(--themeRed);
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  
+}
 #aboutSection .cards > div .title{
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
   
 }
+
+/* imit card */
+#aboutSection .card > div p{
+  font-size: 14px;
+ margin-top: 15px;
+
+}
+
 #aboutSection .cards > div p{
   font-size: 14px;
  margin-top: 15px;
 
 }
+
 #aboutSection .cards > div button{
   border: 1px solid var(--themeRed);
   outline: none;
@@ -246,6 +306,15 @@ header nav ul li a:hover {
    grid-gap: 50px
 
 }
+.programs .con{
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   grid-gap: 10%
+
+}
+
+
+
 
 .programs .boxContainer .box{
    background-color: #fff;
@@ -551,11 +620,20 @@ footer .newsLetterContainer input {
          margin-top: 200px;     
     }
 
-    #aboutSection .cards{
+    /* imit */
+    #aboutSection .card{
          justify-content: space-around;
          height: auto;
     }
 
+    #aboutSection .cards{
+         justify-content: space-around;
+         height: auto;
+    }
+     /* imit */
+    #aboutSection .card > div {
+         margin: 10px 0;
+    }
     #aboutSection .cards > div {
          margin: 10px 0;
     }
