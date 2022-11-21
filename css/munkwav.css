@@ -213,7 +213,7 @@ header nav ul li a:hover {
   background-color: var(--gray);
   padding: 35px;
   color: #444;
-  /* text-align: center; */
+  text-align: center;
   border-radius: 15px;
   height: 420px;
   color: rgb(3, 46, 3);
@@ -235,11 +235,17 @@ header nav ul li a:hover {
 
 /* imit card */
 #aboutSection .card > div:hover {
-      width: 400px;
-      margin-top: -20px;
+     width: 400px;
+     margin-top: -20px;
      border-color: var(--themeRed);
      padding: 55px;
      height: auto;
+  }
+#aboutSection .card > div:hover  span{
+     display: block;
+  }
+#aboutSection .card > div:hover button{
+     display: none;
   }
 
 #aboutSection .cards > div:hover {
