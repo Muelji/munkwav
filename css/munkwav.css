@@ -489,8 +489,8 @@ padding: 30px;
  outline: none;
 
 }
-.education .educationContainer button:hover{
-background-color: red;
+.education .educationContainer:hover .educationContainer2 {
+color: red;
 
 }
 
