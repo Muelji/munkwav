@@ -477,6 +477,10 @@ padding: 30px;
 
 }
 
+.educate{
+    display: flex;
+}
+
 /* education section ends */
 
 /* Gallery section starts */
