@@ -209,13 +209,14 @@ header nav ul li a:hover {
 
 /* imit card */
 #aboutSection .card > div {
-  width: 350px;
+  width: 360px;
   background-color: var(--gray);
   padding: 35px;
   color: #444;
   text-align: center;
   border-radius: 15px;
-  height: 390px;
+  height: 420px;
+  color: rgb(3, 46, 3);
   border: 1px solid #ccc;
   transition: 0.4s;
 }
@@ -471,11 +472,11 @@ padding: 30px;
 .gallery .galleryContainer .item {
    position: relative;
    display: flex;
+   flex-direction: column;
    align-items: center;
    justify-content: center;
-
    margin-bottom: 20px;
-  overflow: hidden;
+   overflow: hidden;
 
 }
 
