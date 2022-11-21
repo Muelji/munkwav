@@ -561,10 +561,9 @@ padding: 30px;
    
 }
 
-.join .card {
-    color: red;
+.join ul span{
+    display: none;
 }
-
 
 /* Join section ends */
 
