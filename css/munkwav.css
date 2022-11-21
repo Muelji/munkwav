@@ -490,7 +490,7 @@ padding: 30px;
  outline: none;
 
 }
-.education .educationContainer button:hover .educationContainer2 {
+.education .educationContainer:hover .educationContainer2 {
  display: block;
 
 }
