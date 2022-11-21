@@ -457,6 +457,7 @@ padding: 30px;
 }
 
 .education .educationContainer2{
+display: none;
 position: absolute;
 left: 650px;
 top: 0;
@@ -489,8 +490,8 @@ padding: 30px;
  outline: none;
 
 }
-.education .educationContainer:hover .educationContainer2 {
-color: red;
+.education .educationContainer button:hover .educationContainer2 {
+ display: block;
 
 }
 
