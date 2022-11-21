@@ -459,13 +459,13 @@ padding: 30px;
 .education .educationContainer2{
 display: none;
 position: absolute;
-left: 110%;
+left: 101%;
 top: 0;
 background-color: #00000096;
 width: 100%;
 color: #fff;
 text-shadow: 0 0 3px #000;
-padding: 30px;
+padding: 10px;
 
 }
 .education .educationContainer h3{
