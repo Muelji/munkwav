@@ -495,6 +495,11 @@ padding: 10px;
 
 }
 
+.education .educationContainer3{
+display: none;
+
+}
+
  
 
 /* education section ends */
@@ -869,6 +874,7 @@ footer .newsLetterContainer input {
     .education .educationContainer{
         display: none;
     }
+
 
     .education .educationContainer2 {
         display: block;
