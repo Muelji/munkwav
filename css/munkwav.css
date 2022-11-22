@@ -871,14 +871,22 @@ footer .newsLetterContainer input {
 }
 @media screen and (max-width: 1235px){
 
-    .education .educationContainer2{
+    .education .educationContainer{
         display: none;
     }
 
 
-    .education .educationContainer3 {
-        display: block;     
-        }    
+   .education .educationContainer3{
+       position: absolute;
+       left: 101%;
+       top: 0;
+       background-color: #00000096;
+       width: 100%;
+       color: #fff;
+       text-shadow: 0 0 3px #000;
+       padding: 10px;
+    
+    }   
 }
 
 
