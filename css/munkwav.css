@@ -879,11 +879,11 @@ footer .newsLetterContainer input {
     }
 
     .banner p {
-        color: white;
+        color: rgb(163, 16, 16);
         width: 50%;
         text-shadow: 0 0 2px black;
         margin-top: 10px;
-        margin-left: 22%;
+        margin-left: 20%;
         
  
  }
