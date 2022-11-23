@@ -870,10 +870,6 @@ footer .newsLetterContainer input {
      grid-template-columns: 1fr;
    }  
 
-   #aboutSection .card > div {
-   height: 500px;
-  }
-
 }
 
 @media screen and (max-width: 320px){
