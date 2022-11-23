@@ -893,8 +893,7 @@ footer .newsLetterContainer input {
     .education{
         height: 120vh;
         overflow: hidden;
-        position: relative;
-     
+        position: relative; 
      }
 }
 
