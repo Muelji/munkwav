@@ -866,15 +866,6 @@ footer .newsLetterContainer input {
    footer .container {
      grid-template-columns: 1fr;
    }  
-
-   /* .banner p {
-    color: white;
-    width: 50%;
-    text-shadow: 0 0 2px black;
-    margin-top: 10px;
-    margin-left: 20%;
-
-} */
 }
 
 @media screen and (max-width: 320px){
