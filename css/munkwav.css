@@ -572,7 +572,7 @@ display: none;
     border-radius: 5px;
 }
 .btn button:hover{
-       background-color: var(--themeRed)               ;
+       background-color: rgb(35, 83, 35)                 ;
 }
 
 
