@@ -572,7 +572,7 @@ display: none;
     border-radius: 5px;
 }
 .btn button:hover{
-       background-color: rgb(35, 83, 35)                 ;
+       background-color: rgb(84, 192, 84)                 ;
 }
 
 
@@ -804,6 +804,9 @@ footer .newsLetterContainer input {
     }
     
     #aboutSection .cards > div:hover {
+        width: 350px;
+    }
+    #aboutSection .card > div:hover {
         width: 350px;
     }
 
