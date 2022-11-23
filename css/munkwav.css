@@ -572,36 +572,18 @@ display: none;
     border-radius: 5px;
 }
 .btn button:hover{
-       background-color: rgb(84, 192, 84)                 ;
+       background-color: var(--themeRed)               ;
 }
 
-.join .joinTitle{
-    font-size: 40px;
-    font-weight: 100;
-}
-.join .joinTitle span{
-    font-weight: 800;
-}
+
 
 .join button {
-    padding: 5px 5px;
-    /* margin-top: 5px; */
+    padding: 3px 5px;
+    margin-top: 5px;
     border: 0;
     outline: none;
     font-weight: 600;
     font-size: 14px;
-   
-}
-
-.join button.joinNow {
-      margin-top: 5%;
-      margin-right: 10px;
-      background-color: #424242;
-      color: #fff;
-   
-}
-.join button.adoptbtn {
-      background-color: var(--gray)
    
 }
 
