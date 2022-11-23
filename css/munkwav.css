@@ -856,6 +856,7 @@ footer .newsLetterContainer input {
 
    }
 
+
    .gallery .galleryContainer {
       column-count: 1;
 
@@ -866,11 +867,11 @@ footer .newsLetterContainer input {
    }  
 
    .banner p {
-    color: rgb(163, 16, 16);
+    color: white;
     width: 50%;
     text-shadow: 0 0 2px black;
     margin-top: 10px;
-    /* margin-left: 20%; */
+    margin-left: 20%;
 
 }
 }
