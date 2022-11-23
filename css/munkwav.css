@@ -24,7 +24,7 @@ body, button{
 }
 
 p{
-   font-size: 14px;
+   font-size: 16px;
    line-height: 26px;
 }
 
@@ -601,6 +601,11 @@ display: none;
     color: white;
     text-align: center;
     font-size: 14px;
+}
+
+.aboutme p{
+font-size: 10px;
+
 }
 
 /* about me ends */
