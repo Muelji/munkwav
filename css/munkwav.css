@@ -873,6 +873,10 @@ footer .newsLetterContainer input {
    #aboutSection .card > div {
    height: 460px;
   }
+
+  .join button {
+    margin-top: 2px;  
+}
 }
 
 @media screen and (max-width: 320px){
