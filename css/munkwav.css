@@ -566,6 +566,15 @@ display: none;
     margin-top: 5%;
 }
 
+.btn button{
+    width: 30%;
+    height: 40px                 ;
+    border-radius: 5px;
+}
+.btn button:hover{
+       background-color: rgb(84, 192, 84)                 ;
+}
+
 .join .joinTitle{
     font-size: 40px;
     font-weight: 100;
