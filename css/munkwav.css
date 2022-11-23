@@ -594,6 +594,16 @@ display: none;
 
 /* Join section ends */
 
+/* about me starts */
+.aboutme{
+    background-color: #4e4c4c;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+/* about me ends */
+
 /* footer starts here */
  footer{
     background-color: #181818;
