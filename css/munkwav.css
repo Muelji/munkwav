@@ -867,14 +867,14 @@ footer .newsLetterContainer input {
      grid-template-columns: 1fr;
    }  
 
-   .banner p {
+   /* .banner p {
     color: white;
     width: 50%;
     text-shadow: 0 0 2px black;
     margin-top: 10px;
-    /* margin-left: 20%; */
+    margin-left: 20%;
 
-}
+} */
 }
 
 @media screen and (max-width: 320px){
