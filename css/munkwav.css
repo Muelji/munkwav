@@ -806,9 +806,6 @@ footer .newsLetterContainer input {
     #aboutSection .cards > div:hover {
         width: 350px;
     }
-    #aboutSection .card > div:hover {
-        width: 350px;
-    }
 
     .education .educationContainer{
         width: 96%;
@@ -872,6 +869,10 @@ footer .newsLetterContainer input {
    footer .container {
      grid-template-columns: 1fr;
    }  
+
+   #aboutSection .card > div {
+   height: 460px;
+  }
 }
 
 @media screen and (max-width: 320px){
