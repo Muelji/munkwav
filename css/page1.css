@@ -187,9 +187,9 @@ header nav ul li a:hover {
 
 /* imit card */
 #aboutSection .card {
+  border: 1px solid red;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   margin-top: 50px;
   position: relative;
   /* height: 245px; */
