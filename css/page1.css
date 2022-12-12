@@ -197,17 +197,6 @@ header nav ul li a:hover {
 }         
 
 
-
-#aboutSection .cards {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin-top: 50px;
-  position: relative;
-  /* height: 245px; */
-  
-}
-
 /* imit card */
 #aboutSection .card > div {
   width: 360px;
@@ -222,17 +211,6 @@ header nav ul li a:hover {
   transition: 0.4s;
 }
 
-#aboutSection .cards > div {
-  width: 350px;
-  background-color: var(--gray);
-  padding: 35px;
-  color: #444;
-  text-align: center;
-  border-radius: 15px;
-  height: 215px;
-  border: 1px solid #ccc;
-  transition: 0.4s;
-}
 
 /* imit card */
 #aboutSection .card > div:hover {
@@ -250,13 +228,6 @@ header nav ul li a:hover {
      display: none;
   }
 
-#aboutSection .cards > div:hover {
-      width: 400px;
-      margin-top: -20px;
-     border-color: var(--themeRed);
-     padding: 55px;
-     height: auto;
-  }
 
   /* imit card */
 #aboutSection .card > div .title{
@@ -267,12 +238,7 @@ header nav ul li a:hover {
   text-transform: uppercase;
   
 }
-#aboutSection .cards > div .title{
-  font-size: 18px;
-  font-weight: 600;
-  text-transform: uppercase;
-  
-}
+
 
 /* imit card */
 #aboutSection .card > div p{
@@ -281,37 +247,12 @@ header nav ul li a:hover {
 
 }
 
-#aboutSection .cards > div p{
-  font-size: 14px;
- margin-top: 15px;
 
-}
 #aboutSection .card > div ul {
   font-size: 14px;
  margin-top: 15px;
 
 }
-
-#aboutSection .cards > div button{
-  border: 1px solid var(--themeRed);
-  outline: none;
-  padding: 7px 15px;
-  margin-top: 15px;
-  font-size: 12px;
-  border-radius: 3px;
-  cursor: pointer;
-  transition: 0.3s;
-
-}
-#aboutSection .cards > div:hover button{
-  background-color: var(--themeRed);
-
-}
-
-.scholarshipBox ul span{
-    display: none;
-}
-
 
 /* AboutSection ends */
 
