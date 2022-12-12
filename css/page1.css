@@ -187,7 +187,7 @@ header nav ul li a:hover {
 
 /* imit card */
 #aboutSection .card {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   display: flex;
   justify-content: center;
   margin-top: 50px;
@@ -199,7 +199,7 @@ header nav ul li a:hover {
 
 /* imit card */
 #aboutSection .card > div {
-  width: 360px;
+  width: 50%;
   background-color: var(--gray);
   padding: 35px;
   color: #444;
@@ -213,13 +213,13 @@ header nav ul li a:hover {
 
 
 /* imit card */
-#aboutSection .card > div:hover {
+/* #aboutSection .card > div:hover {
      width: 400px;
      margin-top: -20px;
      border-color: var(--themeRed);
      padding: 55px;
      height: auto;
-  }
+  } */
 #aboutSection .card > div:hover  span{
      display: block;
   }
