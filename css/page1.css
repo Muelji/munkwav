@@ -425,7 +425,6 @@ footer .newsLetterContainer input {
 }
 
 
-
 @media screen and (max-width:826px){
     header nav {
           position: relative;
@@ -495,25 +494,6 @@ footer .newsLetterContainer input {
     
     #aboutSection .cards > div:hover {
         width: 350px;
-    }
-
-    .education .educationContainer{
-        width: 96%;
-        
-    }
-
-    .education .educationContainer h3{
-        font-size: 30px;
-        line-height: 35px;  
-    }
-
-    .education .educationContainer p{
-        margin: 10px 0 20px; 
-    }
-
-    .gallery .galleryContainer{
-        column-count: 2;
-
     }
 
 }
