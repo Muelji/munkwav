@@ -195,10 +195,32 @@ header nav ul li a:hover {
   /* height: 245px; */
   
 }         
+#programSection .card {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  position: relative;
+  /* height: 245px; */
+  
+}         
 
 
 /* imit card */
 #aboutSection .card > div {
+  width: 70%;
+  background-color: var(--gray);
+  padding: 35px;
+  color: #444;
+  text-align: center;
+  border-radius: 15px;
+  height: 450px;
+  color: rgb(3, 46, 3);
+  border: 1px solid #ccc;
+  transition: 0.4s;
+}
+
+#programSection .card > div {
   width: 70%;
   background-color: var(--gray);
   padding: 35px;
@@ -247,12 +269,6 @@ header nav ul li a:hover {
 
 }
 
-
-#aboutSection .card > div ul {
-  font-size: 14px;
- margin-top: 15px;
-
-}
 
 /* AboutSection ends */
 
