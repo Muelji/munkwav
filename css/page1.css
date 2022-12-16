@@ -268,9 +268,22 @@ header nav ul li a:hover {
   text-transform: uppercase;
   
 }
+#programSection .card > div .title{
+    color: var(--themeRed);
+    text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  
+}
 
 
 /* imit card */
+#aboutSection .card > div p{
+  font-size: 14px;
+ margin-top: 15px;
+
+}
 #aboutSection .card > div p{
   font-size: 14px;
  margin-top: 15px;
