@@ -181,6 +181,14 @@ header nav ul li a:hover {
         border-radius: 3px;
         font-weight: 600;
 }
+ .content ul{
+    color: #fff;
+    font-size: 150%;
+ }
+
+
+
+
 /* Home style ends here */
 
 /* AboutSection starts */
