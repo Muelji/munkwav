@@ -68,7 +68,11 @@ section{
     position: relative;
 }
 
+span{
+     color:rgb(38, 212, 14);
+     font-size: 110%;
 
+}
 
 
 /* common style ends here */
