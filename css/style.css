@@ -370,22 +370,22 @@ header nav ul li a:hover {
 
 .programs .boxContainer .box:nth-child(1) .cardImage,
 .programs .boxContainer .box:nth-child(1) .cardImage:after{
-    background-image: url("images/kid1.jpg");
+    background-image: url("images/pics/b1.jpg");
 
 }
 .programs .boxContainer .box:nth-child(2) .cardImage,
 .programs .boxContainer .box:nth-child(2) .cardImage:after{
-    background-image: url("images/kid2.jpg");
+    background-image: url("images/pics/c4.jpg");
 
 }
 .programs .boxContainer .box:nth-child(3) .cardImage,
 .programs .boxContainer .box:nth-child(3) .cardImage:after{
-    background-image: url("images/kid3.jpg");
+    background-image: url("images/pics/b9.jpg");
 
 }
 .programs .boxContainer .box:nth-child(4) .cardImage,
 .programs .boxContainer .box:nth-child(4) .cardImage:after{
-    background-image: url("images/kid4.jpg");
+    background-image: url("images/pics/c1.jpg");
 }
 
 .programs .boxContainer .box:hover .cardImage:after{
