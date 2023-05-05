@@ -890,6 +890,12 @@ footer .newsLetterContainer input {
      grid-template-columns: 1fr;
    }  
 
+   .aboutmeediv .img {
+    width: 10%;
+    height: 10%;
+    border-radius: 10%;
+   }
+
 }
 
 @media screen and (max-width: 320px){
